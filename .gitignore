@@ -1,0 +1,21 @@
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.apk
+*.aab
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# NestJS / Node
+backend/node_modules/
+backend/dist/
+backend/.env
+backend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
