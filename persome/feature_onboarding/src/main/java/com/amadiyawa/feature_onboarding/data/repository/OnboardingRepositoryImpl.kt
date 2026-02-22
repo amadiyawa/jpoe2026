@@ -1,6 +1,7 @@
 package com.amadiyawa.feature_onboarding.data.repository
 
 import com.amadiyawa.feature_base.domain.result.OperationResult
+import com.amadiyawa.feature_onboarding.domain.model.IconType
 import com.amadiyawa.feature_onboarding.domain.model.OnboardingScreen
 import com.amadiyawa.feature_onboarding.domain.repository.OnboardingRepository
 import com.amadiyawa.onboarding.R
@@ -15,34 +16,28 @@ internal class OnboardingRepositoryImpl : OnboardingRepository {
                     id = "welcome",
                     titleResId = R.string.onboard_title_1,
                     descriptionResId = R.string.onboard_description_1,
-                    imageResId = R.drawable.onboard_image_1
+                    iconType = IconType.PSYCHOLOGY
                 ),
                 // Screen 2: How It Works
                 OnboardingScreen(
                     id = "how_it_works",
                     titleResId = R.string.onboard_title_2,
                     descriptionResId = R.string.onboard_description_2,
-                    imageResId = R.drawable.onboard_image_2
+                    iconType = IconType.QUESTION_ANSWER
                 ),
                 // Screen 3: Permissions (with request)
                 OnboardingScreen(
                     id = "benefits",
                     titleResId = R.string.onboard_title_3,
                     descriptionResId = R.string.onboard_description_3,
-                    imageResId = R.drawable.onboard_image_3
+                    iconType = IconType.STARS
                 ),
                 // Screen 4: Ready to Start
                 OnboardingScreen(
                     id = "permissions",
                     titleResId = R.string.onboard_title_4,
                     descriptionResId = R.string.onboard_description_4,
-                    imageResId = R.drawable.onboard_image_4,
-                    requiresPermissions = true,
-                    permissions = listOf(
-                        android.Manifest.permission.SEND_SMS,
-                        android.Manifest.permission.READ_SMS,
-                        android.Manifest.permission.READ_PHONE_STATE
-                    )
+                    iconType = IconType.PLAY_ARROW
                 )
             )
             OperationResult.Success(onboarding)

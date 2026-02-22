@@ -3,6 +3,7 @@ include(
     ":app",
     ":feature_base",
     ":feature_onboarding",
+    ":feature_personnality",
     ":feature_auth",
     ":feature_billing",
     ":feature_profile"

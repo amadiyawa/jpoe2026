@@ -1,0 +1,114 @@
+[
+  {
+    "type": "INTJ",
+    "whoYouAre": "The INTJ is a strategic and independent thinker, driven by a clear vision of their goals. Rational and determined, they plan everything with precision and only act when confident in their strategy.",
+    "strengths": "Exceptional analytical and logical thinking. Strong autonomy and ability to work alone effectively. Excellent long-term organization and planning. Natural ability to identify innovative solutions to complex problems.",
+    "growthAreas": "Tendency toward isolation that can hinder collaboration. Difficulty delegating due to perfectionism. Communication sometimes perceived as cold or distant. Can be impatient with those who don't share their level of rigor.",
+    "careers": "Engineering and IT (CAMTEL, Orange Cameroon, MTN). Scientific research at the University of Yaoundé I. Tech entrepreneurship in Douala and Yaoundé startups. High-level public administration and strategic planning at the Ministry of Finance. Business management consulting."
+  },
+  {
+    "type": "INTP",
+    "whoYouAre": "The INTP is a curious and analytical thinker, passionate about abstract ideas and understanding complex systems. Always seeking logic, they question the obvious and search for truth.",
+    "strengths": "Outstanding theoretical analysis and reasoning ability. Intellectual creativity and originality in problem-solving. Great mental flexibility and openness to new ideas. Ability to grasp complex concepts quickly.",
+    "growthAreas": "Difficulty moving from theory to concrete action. Tendency to procrastinate on decisions. Can seem distant or uninterested in social relationships. Sometimes too perfectionist to finalize projects.",
+    "careers": "Software development and artificial intelligence. University research and higher education. Data analysis in banks (Afriland First Bank, SCB Cameroon). Strategy and innovation consulting. Investigative journalism and economic analysis."
+  },
+  {
+    "type": "ENTJ",
+    "whoYouAre": "The ENTJ is a natural leader, ambitious and decisive. A visionary and born organizer, they excel at mobilizing teams toward ambitious goals. Their energy and self-confidence inspire those around them.",
+    "strengths": "Strong leadership and ability to make difficult decisions. Long-term strategic vision. Excellent ability to organize and motivate teams. Determination and perseverance in the face of obstacles.",
+    "growthAreas": "Can appear authoritarian or impose ideas without consulting others. Low tolerance for inefficiency that can create tension. Tendency to overlook emotional aspects in decisions. Difficulty accepting criticism.",
+    "careers": "Business leadership and entrepreneurship (Cameroonian SMEs). Management in large companies like Dangote, TotalEnergies. Politics and public administration. Business law at the Douala or Yaoundé bar. Project management in international NGOs."
+  },
+  {
+    "type": "ENTP",
+    "whoYouAre": "The ENTP is an enthusiastic innovator and born debater. Always looking for new ideas, they love challenging conventions and proposing original approaches. Their sharp mind and curiosity are contagious.",
+    "strengths": "Exceptional creativity and innovation. Ability to see opportunities where others see obstacles. Excellent communication and persuasion skills. Adaptability and resilience in the face of change.",
+    "growthAreas": "Difficulty focusing on a single project at a time. Can abandon ideas before bringing them to fruition. Tendency to debate for the sake of it, which can irritate others. Sometimes lacks rigor in execution.",
+    "careers": "Entrepreneurship and creation of innovative startups in Douala. Digital marketing and communication. Journalism and media (CRTV, Equinoxe TV). Innovation consulting for companies. Law and litigation in court."
+  },
+  {
+    "type": "INFJ",
+    "whoYouAre": "The INFJ is a deep and empathetic idealist, driven by strong values and a vision of a better world. Rare and complex, they combine intuition and compassion to understand others with surprising accuracy.",
+    "strengths": "Deep empathy and ability to understand others' motivations. Clear vision and keen sense of human values. Great creativity and storytelling ability. Silent determination and persistence in their convictions.",
+    "growthAreas": "Tendency to overload themselves helping others at their own expense. Difficulty managing conflicts and criticism. Can be too idealistic and disappointed by reality. Need for frequent solitude that can be misunderstood.",
+    "careers": "Psychology and psychological counseling. Social work and humanitarian NGOs (UNICEF Cameroon, Red Cross). Teaching and vocational training. Writing, literature and cultural journalism. Human resources in large companies."
+  },
+  {
+    "type": "INFP",
+    "whoYouAre": "The INFP is an idealistic dreamer, deeply attached to their values and authenticity. Creative and sensitive, they seek meaning in everything they do and aspire to a more just and humane world.",
+    "strengths": "Overflowing creativity and imagination. Authenticity and integrity in all actions. Great empathy and listening ability. Passion and deep commitment to causes close to their heart.",
+    "growthAreas": "Tendency toward idealism that can lead to disappointment. Difficulty making practical decisions quickly. Can be too sensitive to criticism and take it personally. Sometimes struggles to organize and meet constraints.",
+    "careers": "Arts, creative writing and Cameroonian literature. Humanitarian work and community development. Teaching in primary and secondary schools. Communication and public relations in NGOs. Clinical psychology and social support."
+  },
+  {
+    "type": "ENFJ",
+    "whoYouAre": "The ENFJ is a charismatic and altruistic leader, naturally oriented toward others. Diplomatic and inspiring, they excel at uniting people around a shared vision and helping them reach their potential.",
+    "strengths": "Empathetic leadership and ability to motivate teams. Excellent communicator and natural diplomat. Great emotional intelligence and organizational skills. Ability to build strong and lasting bonds.",
+    "growthAreas": "Tendency to neglect their own needs to satisfy others'. Can have difficulty saying no. Sensitivity to conflict that can paralyze them. Sometimes too influenced by others' opinions.",
+    "careers": "Teaching and training (Cameroonian high schools and universities). Human resources and team management. Politics and community development. Institutional communication in government. Coaching and personal development."
+  },
+  {
+    "type": "ENFP",
+    "whoYouAre": "The ENFP is an enthusiastic, creative and deeply human being. Optimistic and open, they see potential everywhere and in everyone. Their contagious energy and passion for new ideas make their presence magnetic.",
+    "strengths": "Contagious enthusiasm and ability to inspire others. Great creativity and mental flexibility. Excellent relational skills and natural empathy. Ability to adapt quickly to new situations.",
+    "growthAreas": "Difficulty maintaining concentration over the long term. Tendency to start many projects without finishing them. Can be too emotional in decision-making. Sometimes disorganized and not rigorous in execution.",
+    "careers": "Creative marketing and digital communication. Journalism and audiovisual media (Radio Balafon, Canal 2). Social entrepreneurship and startups. Animation and event management. Innovative teaching and youth training."
+  },
+  {
+    "type": "ISTJ",
+    "whoYouAre": "The ISTJ is a reliable, rigorous and deeply responsible person. Attached to traditions and established rules, they fulfill their commitments with exemplary consistency and represent a solid pillar for those around them.",
+    "strengths": "Absolute reliability and highly developed sense of duty. Excellent organization and work rigor. Memory for details and scrupulous respect for procedures. Stability and consistency that inspire trust.",
+    "growthAreas": "Resistance to change and difficulty adapting to new methods. Can be perceived as rigid or inflexible. Tendency to criticize those who don't follow the rules. Difficulty expressing emotions.",
+    "careers": "Accounting and finance (accounting firms in Douala). Public administration and Cameroonian civil service. Law and notary services. Audit and management control in banks. Administrative management in large companies."
+  },
+  {
+    "type": "ISFJ",
+    "whoYouAre": "The ISFJ is a caring and devoted guardian, always there to support those they love. Discreet but essential, they channel their energy toward helping others with remarkable generosity and consistency.",
+    "strengths": "Exemplary service orientation and dedication. Great attention to details and others' needs. Unconditional reliability and loyalty. Ability to create a stable and harmonious environment.",
+    "growthAreas": "Tendency to neglect themselves and not express their own needs. Difficulty saying no even when necessary. Can accumulate frustrations without expressing them. Resistance to sudden changes.",
+    "careers": "Healthcare and nursing (Yaoundé Central Hospital). Primary school teaching. Social work and family assistance. Administration in educational institutions. Medical secretarial work and administrative management."
+  },
+  {
+    "type": "ESTJ",
+    "whoYouAre": "The ESTJ is an efficient organizer and born manager. Pragmatic and determined, they love bringing order, following rules and completing projects with remarkable effectiveness.",
+    "strengths": "Excellent ability to organize, plan and supervise. Highly developed sense of responsibility. Assertive leadership and ability to make decisions quickly. Reliability and commitment in everything they undertake.",
+    "growthAreas": "Can lack flexibility when faced with the unexpected. Tendency to impose their methods without consulting others. Difficulty accounting for emotional aspects in decisions. Can appear authoritarian or impatient.",
+    "careers": "Management and leadership in public companies (SNEC, CAMAIR-Co). Judicial administration and law enforcement. Project management in construction and infrastructure. Management of educational institutions. Commerce and SME management."
+  },
+  {
+    "type": "ESFJ",
+    "whoYouAre": "The ESFJ is a warm, social person deeply attached to harmony. Attentive to others' needs and eager to do the right thing, they naturally create strong bonds and contribute to group cohesion.",
+    "strengths": "Excellent relational skills and sense of hospitality. Organizational skills and attention to detail. Loyalty and dedication to their community. Natural ability to create a warm and inclusive atmosphere.",
+    "growthAreas": "Too sensitive to the judgments and disapproval of others. Tendency to avoid conflicts even when necessary. Can struggle to make unpopular decisions. Sometimes too conformist and unoriginal.",
+    "careers": "Healthcare and community medicine. Teaching and education. Public relations and event management. Commerce and customer service in retail. Human resources and talent management."
+  },
+  {
+    "type": "ISTP",
+    "whoYouAre": "The ISTP is a calm and pragmatic observer, fascinated by how things work. Independent and handy, they solve concrete problems with formidable efficiency and precision.",
+    "strengths": "Excellent technical and manual skills. Ability to stay calm and effective in crisis situations. Great independence and autonomy. Practical sense and ability to find quick solutions.",
+    "growthAreas": "Difficulty expressing their emotions and needs. Tendency toward isolation and withdrawal. Can seem cold or indifferent to others. Resistance to long-term commitments.",
+    "careers": "Mechanical and industrial engineering (Douala factories). IT and systems maintenance. Electricity and energy (AES-SONEL, EDC). Construction and public works. Technical agriculture and farm management."
+  },
+  {
+    "type": "ISFP",
+    "whoYouAre": "The ISFP is a sensitive and authentic artist, deeply connected to their senses and values. Discreet but passionate, they express their creativity in daily actions and seek beauty and harmony.",
+    "strengths": "Artistic creativity and well-developed aesthetic sense. Great sensitivity and empathy toward others. Authenticity and coherence between values and actions. Flexibility and ability to adapt to situations.",
+    "growthAreas": "Avoids conflicts to the point of not defending their rights. Difficulty planning and projecting into the long term. Tendency to underestimate their own skills. Can be too reserved to seize opportunities.",
+    "careers": "Visual arts, music and Cameroonian crafts. Photography and graphic design. Tourism and cultural guide. Nursing and patient care. African fashion and styling in Yaoundé and Douala."
+  },
+  {
+    "type": "ESTP",
+    "whoYouAre": "The ESTP is a dynamic and pragmatic actor, always at the heart of the action. Energetic, sociable and resourceful, they excel in situations requiring reactivity and rapid decision-making.",
+    "strengths": "Reactivity and ability to act under pressure. Excellent negotiation and persuasion skills. Energy and enthusiasm that motivate teams. Pragmatism and sense of ground-level realities.",
+    "growthAreas": "Tendency to act without thinking about long-term consequences. Can quickly become bored with routine tasks. Difficulty following rules and procedures. Can take excessive risks.",
+    "careers": "Commerce and sales in Douala and Yaoundé markets. Entrepreneurship and international trade. Professional sports and sports coaching. Event management and entertainment. Security and law enforcement."
+  },
+  {
+    "type": "ESFP",
+    "whoYouAre": "The ESFP is a sunny, spontaneous and generous personality. In love with life and others, they bring joy and enthusiasm wherever they go. Their festive spirit and natural empathy make them a deeply human being.",
+    "strengths": "Contagious enthusiasm and ability to put others at ease. Excellent interpersonal skills and sense of conviviality. Adaptability and resilience in the face of the unexpected. Generosity and sense of solidarity.",
+    "growthAreas": "Difficulty focusing on long and repetitive tasks. Tendency to avoid difficult responsibilities. Can lack planning and live in the moment. Excessive sensitivity to conflicts and tensions.",
+    "careers": "Tourism, hospitality and catering. Live entertainment and performing arts. Commerce and customer relations. Teaching in preschool and primary school. Community health and field agents in NGOs."
+  }
+]

@@ -8,6 +8,4 @@ sealed class OnboardingAction : BaseAction {
     object PreviousScreen : OnboardingAction()
     object CompleteOnboarding : OnboardingAction()
     data class GoToScreen(val index: Int) : OnboardingAction()
-    object RequestPermissions : OnboardingAction()
-    object OpenSettings : OnboardingAction()
 }

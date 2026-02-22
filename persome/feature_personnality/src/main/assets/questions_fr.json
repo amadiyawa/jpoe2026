@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "text": "Lors d'une fête ou d'un rassemblement familial, vous préférez :",
+    "optionA": "Parler avec un maximum de personnes",
+    "optionB": "Rester avec quelques proches que vous connaissez bien",
+    "dimension": "EI"
+  },
+  {
+    "id": 2,
+    "text": "Après une longue journée de travail ou d'études, vous vous ressourcez en :",
+    "optionA": "Sortant avec des amis ou de la famille",
+    "optionB": "Restant seul(e) chez vous au calme",
+    "dimension": "EI"
+  },
+  {
+    "id": 3,
+    "text": "Dans un groupe de travail, vous avez tendance à :",
+    "optionA": "Prendre la parole et partager vos idées spontanément",
+    "optionB": "Réfléchir d'abord avant de vous exprimer",
+    "dimension": "EI"
+  },
+  {
+    "id": 4,
+    "text": "Quand vous rencontrez de nouvelles personnes, vous :",
+    "optionA": "Vous sentez à l'aise et engagez facilement la conversation",
+    "optionB": "Prenez le temps d'observer avant de vous ouvrir",
+    "dimension": "EI"
+  },
+  {
+    "id": 5,
+    "text": "Pendant le week-end, votre idée d'une bonne journée c'est :",
+    "optionA": "Sortir, voir du monde et faire des activités en groupe",
+    "optionB": "Rester tranquille, lire ou faire une activité solo",
+    "dimension": "EI"
+  },
+  {
+    "id": 6,
+    "text": "Au travail ou à l'école, vous préférez :",
+    "optionA": "Les espaces ouverts où vous pouvez interagir avec tout le monde",
+    "optionB": "Un espace calme où vous pouvez vous concentrer",
+    "dimension": "EI"
+  },
+  {
+    "id": 7,
+    "text": "Quand vous avez un problème à résoudre, vous :",
+    "optionA": "En parlez avec plusieurs personnes pour avoir des avis",
+    "optionB": "Préférez réfléchir seul(e) avant d'en parler",
+    "dimension": "EI"
+  },
+  {
+    "id": 8,
+    "text": "Dans une discussion, vous êtes plutôt quelqu'un qui :",
+    "optionA": "Parle beaucoup et anime la conversation",
+    "optionB": "Écoute et intervient quand vous avez quelque chose d'important à dire",
+    "dimension": "EI"
+  },
+  {
+    "id": 9,
+    "text": "Vos amis vous décriraient plutôt comme quelqu'un de :",
+    "optionA": "Sociable, ouvert et facile à approcher",
+    "optionB": "Discret, réservé mais profond dans ses relations",
+    "dimension": "EI"
+  },
+  {
+    "id": 10,
+    "text": "Quand vous êtes dans un endroit bruyant et animé, vous :",
+    "optionA": "Vous sentez energisé(e) et stimulé(e)",
+    "optionB": "Vous sentez rapidement fatigué(e) et cherchez un coin calme",
+    "dimension": "EI"
+  },
+  {
+    "id": 11,
+    "text": "Quand vous apprenez quelque chose de nouveau, vous préférez :",
+    "optionA": "Des exemples concrets et des cas pratiques",
+    "optionB": "Comprendre les concepts et théories en profondeur",
+    "dimension": "SN"
+  },
+  {
+    "id": 12,
+    "text": "Pour prendre une décision importante, vous vous basez surtout sur :",
+    "optionA": "Les faits concrets et ce qui s'est déjà passé",
+    "optionB": "Votre intuition et les possibilités futures",
+    "dimension": "SN"
+  },
+  {
+    "id": 13,
+    "text": "Quand vous lisez un texte, vous faites plus attention :",
+    "optionA": "Aux détails précis et aux informations factuelles",
+    "optionB": "Au sens global et aux idées principales",
+    "dimension": "SN"
+  },
+  {
+    "id": 14,
+    "text": "Dans votre travail quotidien, vous préférez :",
+    "optionA": "Des tâches claires avec des étapes bien définies",
+    "optionB": "Des projets variés avec de la place pour la créativité",
+    "dimension": "SN"
+  },
+  {
+    "id": 15,
+    "text": "Vous faites plus confiance à :",
+    "optionA": "Ce que vous pouvez voir, toucher et vérifier",
+    "optionB": "Votre instinct et vos pressentiments",
+    "dimension": "SN"
+  },
+  {
+    "id": 16,
+    "text": "Quand vous imaginez l'avenir, vous :",
+    "optionA": "Pensez à des plans concrets et réalisables",
+    "optionB": "Rêvez de grandes possibilités même lointaines",
+    "dimension": "SN"
+  },
+  {
+    "id": 17,
+    "text": "Pour vous, ce qui compte le plus c'est :",
+    "optionA": "Ce qui est pratique et utile maintenant",
+    "optionB": "Ce qui pourrait être possible demain",
+    "dimension": "SN"
+  },
+  {
+    "id": 18,
+    "text": "Quand un ami vous parle d'un problème, vous avez tendance à :",
+    "optionA": "L'aider à trouver une solution logique et efficace",
+    "optionB": "D'abord l'écouter et lui apporter du réconfort",
+    "dimension": "TF"
+  },
+  {
+    "id": 19,
+    "text": "Pour choisir entre deux options, vous vous basez surtout sur :",
+    "optionA": "La logique et ce qui est objectivement le mieux",
+    "optionB": "Ce que vous ressentez et l'impact sur les personnes concernées",
+    "dimension": "TF"
+  },
+  {
+    "id": 20,
+    "text": "Au travail, vous pensez que les décisions doivent être prises :",
+    "optionA": "Sur la base de faits et d'analyses, même si ça déplaît",
+    "optionB": "En tenant compte des sentiments et des relations humaines",
+    "dimension": "TF"
+  },
+  {
+    "id": 21,
+    "text": "Quand quelqu'un fait une erreur, vous préférez :",
+    "optionA": "Le lui dire directement pour qu'il s'améliore",
+    "optionB": "Trouver une façon douce de lui faire comprendre",
+    "dimension": "TF"
+  },
+  {
+    "id": 22,
+    "text": "Dans votre vie quotidienne, vous préférez :",
+    "optionA": "Avoir un planning bien organisé et le suivre",
+    "optionB": "Rester flexible et vous adapter aux situations",
+    "dimension": "JP"
+  },
+  {
+    "id": 23,
+    "text": "Quand vous avez un projet à rendre, vous :",
+    "optionA": "Le terminez bien avant la date limite",
+    "optionB": "Travaillez mieux sous pression, proche de la deadline",
+    "dimension": "JP"
+  },
+  {
+    "id": 24,
+    "text": "Votre espace de travail ou votre chambre est généralement :",
+    "optionA": "Bien rangé(e) et organisé(e)",
+    "optionB": "Un peu en désordre mais vous savez où tout est",
+    "dimension": "JP"
+  },
+  {
+    "id": 25,
+    "text": "Quand vous partez en voyage, vous :",
+    "optionA": "Planifiez tout à l'avance : hôtel, transport, activités",
+    "optionB": "Préférez improviser et voir ce qui se présente",
+    "dimension": "JP"
+  },
+  {
+    "id": 26,
+    "text": "Face à une tâche non terminée, vous :",
+    "optionA": "Vous sentez mal à l'aise jusqu'à ce qu'elle soit faite",
+    "optionB": "Pouvez facilement la mettre de côté et y revenir plus tard",
+    "dimension": "JP"
+  },
+  {
+    "id": 27,
+    "text": "Dans un projet de groupe, vous préférez :",
+    "optionA": "Définir clairement les rôles et les étapes dès le début",
+    "optionB": "Laisser les choses se mettre en place naturellement",
+    "dimension": "JP"
+  },
+  {
+    "id": 28,
+    "text": "Quand les plans changent à la dernière minute, vous :",
+    "optionA": "Vous sentez stressé(e) et préférez rester sur le plan initial",
+    "optionB": "Vous adaptez facilement et trouvez ça stimulant",
+    "dimension": "JP"
+  },
+  {
+    "id": 29,
+    "text": "Pour faire vos courses ou vos achats, vous :",
+    "optionA": "Faites une liste et vous y tenez",
+    "optionB": "Achetez selon l'inspiration du moment",
+    "dimension": "JP"
+  },
+  {
+    "id": 30,
+    "text": "À la fin de la semaine, vous vous sentez mieux quand :",
+    "optionA": "Tout ce qui était prévu a été accompli",
+    "optionB": "Vous avez eu de la liberté pour faire ce que vous vouliez",
+    "dimension": "JP"
+  }
+]

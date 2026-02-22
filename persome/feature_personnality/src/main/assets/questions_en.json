@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "text": "At a party or family gathering, you prefer to:",
+    "optionA": "Talk to as many people as possible",
+    "optionB": "Stay with a few close people you know well",
+    "dimension": "EI"
+  },
+  {
+    "id": 2,
+    "text": "After a long day of work or studies, you recharge by:",
+    "optionA": "Going out with friends or family",
+    "optionB": "Staying home alone in a quiet environment",
+    "dimension": "EI"
+  },
+  {
+    "id": 3,
+    "text": "In a work group, you tend to:",
+    "optionA": "Speak up and share your ideas spontaneously",
+    "optionB": "Think carefully before expressing yourself",
+    "dimension": "EI"
+  },
+  {
+    "id": 4,
+    "text": "When you meet new people, you:",
+    "optionA": "Feel comfortable and easily start conversations",
+    "optionB": "Take time to observe before opening up",
+    "dimension": "EI"
+  },
+  {
+    "id": 5,
+    "text": "On weekends, your idea of a good day is:",
+    "optionA": "Going out, seeing people and doing group activities",
+    "optionB": "Staying in, reading or doing a solo activity",
+    "dimension": "EI"
+  },
+  {
+    "id": 6,
+    "text": "At work or school, you prefer:",
+    "optionA": "Open spaces where you can interact with everyone",
+    "optionB": "A quiet space where you can focus",
+    "dimension": "EI"
+  },
+  {
+    "id": 7,
+    "text": "When you have a problem to solve, you:",
+    "optionA": "Talk it over with several people to get opinions",
+    "optionB": "Prefer to think it through alone first",
+    "dimension": "EI"
+  },
+  {
+    "id": 8,
+    "text": "In a conversation, you are more someone who:",
+    "optionA": "Talks a lot and keeps the conversation going",
+    "optionB": "Listens and speaks when you have something important to say",
+    "dimension": "EI"
+  },
+  {
+    "id": 9,
+    "text": "Your friends would describe you as:",
+    "optionA": "Social, open and easy to approach",
+    "optionB": "Quiet, reserved but deep in relationships",
+    "dimension": "EI"
+  },
+  {
+    "id": 10,
+    "text": "When you are in a noisy and lively place, you:",
+    "optionA": "Feel energized and stimulated",
+    "optionB": "Quickly feel tired and look for a quiet spot",
+    "dimension": "EI"
+  },
+  {
+    "id": 11,
+    "text": "When learning something new, you prefer:",
+    "optionA": "Concrete examples and practical cases",
+    "optionB": "Understanding concepts and theories in depth",
+    "dimension": "SN"
+  },
+  {
+    "id": 12,
+    "text": "To make an important decision, you mainly rely on:",
+    "optionA": "Concrete facts and what has already happened",
+    "optionB": "Your intuition and future possibilities",
+    "dimension": "SN"
+  },
+  {
+    "id": 13,
+    "text": "When you read a text, you pay more attention to:",
+    "optionA": "Precise details and factual information",
+    "optionB": "The overall meaning and main ideas",
+    "dimension": "SN"
+  },
+  {
+    "id": 14,
+    "text": "In your daily work, you prefer:",
+    "optionA": "Clear tasks with well-defined steps",
+    "optionB": "Varied projects with room for creativity",
+    "dimension": "SN"
+  },
+  {
+    "id": 15,
+    "text": "You trust more:",
+    "optionA": "What you can see, touch and verify",
+    "optionB": "Your instinct and gut feelings",
+    "dimension": "SN"
+  },
+  {
+    "id": 16,
+    "text": "When you think about the future, you:",
+    "optionA": "Think about concrete and achievable plans",
+    "optionB": "Dream of great possibilities even if far away",
+    "dimension": "SN"
+  },
+  {
+    "id": 17,
+    "text": "For you, what matters most is:",
+    "optionA": "What is practical and useful right now",
+    "optionB": "What could be possible tomorrow",
+    "dimension": "SN"
+  },
+  {
+    "id": 18,
+    "text": "When a friend tells you about a problem, you tend to:",
+    "optionA": "Help them find a logical and effective solution",
+    "optionB": "First listen and offer comfort and support",
+    "dimension": "TF"
+  },
+  {
+    "id": 19,
+    "text": "When choosing between two options, you mainly rely on:",
+    "optionA": "Logic and what is objectively best",
+    "optionB": "What you feel and the impact on the people involved",
+    "dimension": "TF"
+  },
+  {
+    "id": 20,
+    "text": "At work, you believe decisions should be made:",
+    "optionA": "Based on facts and analysis, even if unpopular",
+    "optionB": "Taking into account feelings and human relationships",
+    "dimension": "TF"
+  },
+  {
+    "id": 21,
+    "text": "When someone makes a mistake, you prefer to:",
+    "optionA": "Tell them directly so they can improve",
+    "optionB": "Find a gentle way to help them understand",
+    "dimension": "TF"
+  },
+  {
+    "id": 22,
+    "text": "In your daily life, you prefer:",
+    "optionA": "Having a well-organized schedule and following it",
+    "optionB": "Staying flexible and adapting to situations",
+    "dimension": "JP"
+  },
+  {
+    "id": 23,
+    "text": "When you have a project to submit, you:",
+    "optionA": "Finish it well before the deadline",
+    "optionB": "Work better under pressure, close to the deadline",
+    "dimension": "JP"
+  },
+  {
+    "id": 24,
+    "text": "Your workspace or room is generally:",
+    "optionA": "Well organized and tidy",
+    "optionB": "A bit messy but you know where everything is",
+    "dimension": "JP"
+  },
+  {
+    "id": 25,
+    "text": "When you go on a trip, you:",
+    "optionA": "Plan everything in advance: hotel, transport, activities",
+    "optionB": "Prefer to improvise and see what comes up",
+    "dimension": "JP"
+  },
+  {
+    "id": 26,
+    "text": "When facing an unfinished task, you:",
+    "optionA": "Feel uncomfortable until it is done",
+    "optionB": "Can easily set it aside and come back to it later",
+    "dimension": "JP"
+  },
+  {
+    "id": 27,
+    "text": "In a group project, you prefer:",
+    "optionA": "Clearly defining roles and steps from the beginning",
+    "optionB": "Letting things fall into place naturally",
+    "dimension": "JP"
+  },
+  {
+    "id": 28,
+    "text": "When plans change at the last minute, you:",
+    "optionA": "Feel stressed and prefer to stick to the original plan",
+    "optionB": "Adapt easily and find it stimulating",
+    "dimension": "JP"
+  },
+  {
+    "id": 29,
+    "text": "When going shopping, you:",
+    "optionA": "Make a list and stick to it",
+    "optionB": "Buy based on what inspires you in the moment",
+    "dimension": "JP"
+  },
+  {
+    "id": 30,
+    "text": "At the end of the week, you feel better when:",
+    "optionA": "Everything that was planned has been accomplished",
+    "optionB": "You had the freedom to do what you wanted",
+    "dimension": "JP"
+  }
+]

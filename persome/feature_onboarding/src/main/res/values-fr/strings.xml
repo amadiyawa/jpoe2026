@@ -1,40 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Titres de l'onboarding -->
-    <string name="onboard_title_1">Bienvenue dans Keelo Gateway</string>
-    <string name="onboard_title_2">Envoyez des SMS Gratuits</string>
-    <string name="onboard_title_3">Permissions Requises</string>
-    <string name="onboard_title_4">Prêt à Démarrer !</string>
+    <string name="onboard_title_1">Bienvenue sur Persome</string>
+    <string name="onboard_title_2">Découvrez Votre Personnalité</string>
+    <string name="onboard_title_3">Des Analyses Propulsées par l\'IA</string>
+    <string name="onboard_title_4">Prêt à vous Découvrir ?</string>
 
     <!-- Descriptions de l'onboarding -->
-    <string name="onboard_description_1">Transformez votre appareil Android en une puissante passerelle SMS. Envoyez des SMS illimités en utilisant votre forfait téléphonique.</string>
-    <string name="onboard_description_2">Connectez-vous à votre backend Keelo et envoyez des SMS automatiquement. Parfait pour les notifications, alertes et campagnes marketing.</string>
-    <string name="onboard_description_3">Keelo a besoin de la permission d\'envoyer des SMS et de lire l\'état du téléphone pour fonctionner correctement. Votre vie privée est notre priorité.</string>
-    <string name="onboard_description_4">Tout est prêt ! Connectez votre appareil pour commencer à envoyer des SMS via Keelo Gateway.</string>
+    <string name="onboard_description_1">Explorez votre personnalité grâce au modèle MBTI. Parmi 16 profils uniques, lequel êtes-vous ?</string>
+    <string name="onboard_description_2">Répondez à 30 questions simples sur vos préférences et habitudes. Il n\'y a pas de bonnes ou mauvaises réponses — soyez vous-même !</string>
+    <string name="onboard_description_3">Notre IA analyse vos réponses et génère une description personnalisée avec des recommandations de carrières adaptées au Cameroun.</string>
+    <string name="onboard_description_4">Vos résultats sont sauvegardés localement sur votre appareil. Passez le test autant de fois que vous voulez et suivez votre évolution !</string>
 
     <!-- Navigation -->
     <string name="skip">Passer</string>
     <string name="next">Suivant</string>
     <string name="previous">Précédent</string>
-    <string name="get_started">Commencer !</string>
+    <string name="get_started">Commencer le Test !</string>
     <string name="continue_button">Continuer</string>
-
-    <!-- Permissions Screen -->
-    <string name="permissions_required">Autorisations nécessaires</string>
-    <string name="grant_permissions">Accorder les permissions</string>
-    <string name="permissions_required_message">Ces autorisations sont indispensables pour que Keelo Gateway fonctionne correctement</string>
-
-    <!-- Permission Items -->
-    <string name="permission_sms_title">SMS</string>
-    <string name="permission_sms_description">Pour envoyer et recevoir des SMS</string>
-
-    <string name="permission_phone_title">État du téléphone</string>
-    <string name="permission_phone_description">Pour détecter la connectivité réseau</string>
-
-    <!-- Permissions Blocked Dialog - Version Compacte -->
-    <string name="permissions_blocked_title">Permissions bloquées</string>
-    <string name="permissions_blocked_message">Keelo Gateway ne peut pas fonctionner sans ces autorisations.</string>
-    <string name="permissions_blocked_instructions">Accédez aux paramètres pour activer les permissions requises.</string>
-    <string name="open_settings">Paramètres</string>
-    <string name="cancel">Plus tard</string>
 </resources>

@@ -1,8 +1,10 @@
 package com.amadiyawa.feature_base.presentation.compose.composable
 
+import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.SideEffect
+import androidx.compose.ui.graphics.Color
 import com.google.accompanist.systemuicontroller.rememberSystemUiController
 
 /**
@@ -16,9 +18,13 @@ import com.google.accompanist.systemuicontroller.rememberSystemUiController
 @Composable
 fun SetupSystemBars() {
     val systemUiController = rememberSystemUiController()
-    val surface = MaterialTheme.colorScheme.surface
+    val isDarkTheme = isSystemInDarkTheme()
+    val background = MaterialTheme.colorScheme.background
 
     SideEffect {
-        systemUiController.setSystemBarsColor(color = surface)
+        systemUiController.setSystemBarsColor(
+            color = background,
+            darkIcons = !isDarkTheme
+        )
     }
 }

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="history_title">Mes Résultats</string>
+    <string name="history_empty_title">Aucun test encore</string>
+    <string name="history_empty_message">Passez votre premier test de personnalité !</string>
+    <string name="error_loading_history">Erreur de chargement de l\'historique</string>
+    <string name="start_test">Commencer le Test</string>
+
+    <string name="questionnaire_title">Test de personnalité</string>
+    <string name="error_loading_questions">Erreur de chargement des questions</string>
+    <string name="previous">Précédent</string>
+    <string name="next">Suivant</string>
+    <string name="finish_questionnaire">Terminer</string>
+
+    <string name="userinfo_title">Parle-nous de toi</string>
+    <string name="userinfo_subtitle">Pour personnaliser ta description</string>
+    <string name="userinfo_firstname">Prénom</string>
+    <string name="userinfo_age">Âge</string>
+    <string name="userinfo_age_error">Entre un âge valide</string>
+    <string name="userinfo_city">Ville</string>
+    <string name="userinfo_situation">Ta situation</string>
+    <string name="userinfo_submit">Obtenir ma description</string>
+    <string name="userinfo_loading">Génération de ta description en cours…</string>
+    <string name="userinfo_error">Une erreur est survenue</string>
+    <string name="situation_student">Étudiant(e)</string>
+    <string name="situation_employed">Salarié(e)</string>
+    <string name="situation_self_employed">Indépendant(e)</string>
+    <string name="situation_seeking">En recherche</string>
+
+    <string name="result_greeting">Félicitations, %1$s !</string>
+    <string name="result_subtitle">Voici ton profil de personnalité MBTI</string>
+    <string name="result_ai_description">✨ Description générée par l\'IA</string>
+    <string name="result_static_description">📄 Description standard</string>
+    <string name="result_retake">Refaire le test</string>
+    <string name="result_back_history">Retour à l\'historique</string>
+    <string name="result_error">Erreur de chargement du résultat</string>
+</resources>
