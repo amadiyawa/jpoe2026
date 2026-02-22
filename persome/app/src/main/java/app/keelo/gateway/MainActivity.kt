@@ -2,11 +2,13 @@ package app.keelo.gateway
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
+import androidx.activity.SystemBarStyle
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.material3.windowsizeclass.ExperimentalMaterial3WindowSizeClassApi
 import androidx.compose.material3.windowsizeclass.calculateWindowSizeClass
 import androidx.core.view.WindowCompat
+import androidx.core.view.WindowInsetsControllerCompat
 import app.keelo.gateway.presentation.screen.appentry.MainScreen
 
 /**
@@ -21,7 +23,6 @@ class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         WindowCompat.setDecorFitsSystemWindows(window, false)
-        enableEdgeToEdge()
         setContent {
             MainScreen(windowSizeClass = calculateWindowSizeClass(activity = this@MainActivity))
         }

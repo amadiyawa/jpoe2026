@@ -1,0 +1,114 @@
+[
+  {
+    "type": "INTJ",
+    "whoYouAre": "L'INTJ est une personne stratégique et indépendante, animée par une vision claire de ses objectifs. Rationnel et déterminé, il planifie tout avec précision et n'agit que lorsqu'il est certain de sa stratégie.",
+    "strengths": "Pensée analytique et logique exceptionnelle. Grande autonomie et capacité à travailler seul efficacement. Excellente organisation et planification à long terme. Aptitude naturelle à identifier des solutions innovantes face aux problèmes complexes.",
+    "growthAreas": "Tendance à l'isolement qui peut freiner la collaboration. Difficulté à déléguer car perfectionniste. Communication parfois perçue comme froide ou distante. Peut manquer de patience envers ceux qui ne partagent pas son niveau de rigueur.",
+    "careers": "Ingénierie et informatique (CAMTEL, Orange Cameroun, MTN). Recherche scientifique à l'Université de Yaoundé I. Entrepreneuriat tech dans les startups de Douala et Yaoundé. Administration publique de haut niveau, planification stratégique au ministère des Finances. Conseil en gestion d'entreprise."
+  },
+  {
+    "type": "INTP",
+    "whoYouAre": "L'INTP est un penseur curieux et analytique, passionné par les idées abstraites et la compréhension des systèmes complexes. Toujours en quête de logique, il remet en question les évidences et cherche la vérité.",
+    "strengths": "Capacité d'analyse et de réflexion théorique hors du commun. Créativité intellectuelle et originalité dans la résolution de problèmes. Grande flexibilité mentale et ouverture aux nouvelles idées. Aptitude à comprendre des concepts complexes rapidement.",
+    "growthAreas": "Difficulté à passer de la théorie à l'action concrète. Tendance à procrastiner sur les décisions. Peut sembler distant ou désintéressé dans les relations sociales. Parfois trop perfectionniste pour finaliser ses projets.",
+    "careers": "Développement logiciel et intelligence artificielle. Recherche universitaire et enseignement supérieur. Analyse de données dans les banques (Afriland First Bank, SCB Cameroun). Conseil en stratégie et innovation. Journalisme d'investigation et analyse économique."
+  },
+  {
+    "type": "ENTJ",
+    "whoYouAre": "L'ENTJ est un leader naturel, ambitieux et décisif. Visionnaire et organisateur né, il excelle à mobiliser les équipes vers des objectifs ambitieux. Son énergie et sa confiance en soi inspirent ceux qui l'entourent.",
+    "strengths": "Leadership fort et capacité à prendre des décisions difficiles. Vision stratégique à long terme. Excellente aptitude à organiser et motiver les équipes. Détermination et persévérance face aux obstacles.",
+    "growthAreas": "Peut paraître autoritaire ou imposer ses idées sans consulter. Faible tolérance pour l'inefficacité qui peut créer des tensions. Tendance à négliger les aspects émotionnels dans ses décisions. Difficulté à accepter les critiques.",
+    "careers": "Direction d'entreprise et entrepreneuriat (PME camerounaises). Management dans les grandes entreprises comme Dangote, Total Energie. Politique et administration publique. Droit des affaires au barreau de Douala ou Yaoundé. Gestion de projets dans les ONG internationales."
+  },
+  {
+    "type": "ENTP",
+    "whoYouAre": "L'ENTP est un innovateur enthousiaste et débatteur né. Toujours à la recherche de nouvelles idées, il adore challenger les conventions et proposer des approches originales. Son esprit vif et sa curiosité sont contagieux.",
+    "strengths": "Créativité et innovation exceptionnelles. Capacité à voir des opportunités là où les autres voient des obstacles. Excellentes compétences en communication et persuasion. Adaptabilité et résilience face aux changements.",
+    "growthAreas": "Difficulté à se concentrer sur un seul projet à la fois. Peut abandonner des idées avant de les concrétiser. Tendance à débattre pour le plaisir, ce qui peut irriter l'entourage. Manque parfois de rigueur dans l'exécution.",
+    "careers": "Entrepreneuriat et création de startups innovantes à Douala. Marketing et communication digitale. Journalisme et médias (CRTV, Équinoxe TV). Conseil en innovation pour les entreprises. Droit et plaidoirie au tribunal."
+  },
+  {
+    "type": "INFJ",
+    "whoYouAre": "L'INFJ est un idéaliste profond et empathique, animé par des valeurs fortes et une vision du monde meilleur. Rare et complexe, il combine intuition et compassion pour comprendre les autres avec une précision étonnante.",
+    "strengths": "Empathie profonde et capacité à comprendre les motivations des autres. Vision claire et sens aigu des valeurs humaines. Grande créativité et sens du récit. Détermination silencieuse et persistance dans ses convictions.",
+    "growthAreas": "Tendance à se surcharger pour aider les autres au détriment de soi. Difficulté à gérer les conflits et les critiques. Peut être trop idéaliste et déçu par la réalité. Besoin de solitude fréquent qui peut être mal compris.",
+    "careers": "Psychologie et conseil psychologique. Travail social et ONG humanitaires (UNICEF Cameroun, Croix-Rouge). Enseignement et formation professionnelle. Écriture, littérature et journalisme culturel. Ressources humaines dans les grandes entreprises."
+  },
+  {
+    "type": "INFP",
+    "whoYouAre": "L'INFP est un rêveur idéaliste, profondément attaché à ses valeurs et à l'authenticité. Créatif et sensible, il cherche du sens dans tout ce qu'il fait et aspire à un monde plus juste et plus humain.",
+    "strengths": "Créativité et imagination débordantes. Authenticité et intégrité dans toutes ses actions. Grande empathie et capacité d'écoute. Passion et engagement profond pour les causes qui lui tiennent à cœur.",
+    "growthAreas": "Tendance à l'idéalisme qui peut mener à la déception. Difficulté à prendre des décisions pratiques rapidement. Peut être trop sensible aux critiques et les prendre personnellement. Parfois du mal à s'organiser et respecter les contraintes.",
+    "careers": "Arts, écriture créative et littérature camerounaise. Travail humanitaire et développement communautaire. Enseignement dans le primaire et secondaire. Communication et relations publiques dans les ONG. Psychologie clinique et accompagnement social."
+  },
+  {
+    "type": "ENFJ",
+    "whoYouAre": "L'ENFJ est un leader charismatique et altruiste, naturellement tourné vers les autres. Diplomate et inspirant, il excelle à fédérer les personnes autour d'une vision commune et à les aider à révéler leur potentiel.",
+    "strengths": "Leadership empathique et capacité à motiver les équipes. Excellent communicant et diplomate naturel. Grande intelligence émotionnelle et sens de l'organisation. Aptitude à créer des liens forts et durables.",
+    "growthAreas": "Tendance à négliger ses propres besoins pour satisfaire ceux des autres. Peut avoir du mal à dire non. Sensibilité aux conflits qui peut le paralyser. Parfois trop influençable par les opinions des autres.",
+    "careers": "Enseignement et formation (lycées, universités camerounaises). Ressources humaines et management d'équipe. Politique et développement communautaire. Communication institutionnelle au gouvernement. Coaching et développement personnel."
+  },
+  {
+    "type": "ENFP",
+    "whoYouAre": "L'ENFP est un être enthousiaste, créatif et profondément humain. Optimiste et ouvert, il voit le potentiel partout et dans chacun. Son énergie communicative et sa passion pour les idées nouvelles rendent sa présence magnétique.",
+    "strengths": "Enthousiasme contagieux et capacité à inspirer les autres. Grande créativité et flexibilité d'esprit. Excellentes compétences relationnelles et empathie naturelle. Aptitude à s'adapter rapidement aux nouvelles situations.",
+    "growthAreas": "Difficulté à maintenir sa concentration sur le long terme. Tendance à commencer beaucoup de projets sans les terminer. Peut être trop émotionnel dans ses prises de décision. Parfois désorganisé et peu rigoureux dans l'exécution.",
+    "careers": "Marketing créatif et communication digitale. Journalisme et médias audiovisuels (Radio Balafon, Canal 2). Entrepreneuriat social et startups. Animation et événementiel. Enseignement innovant et formation des jeunes."
+  },
+  {
+    "type": "ISTJ",
+    "whoYouAre": "L'ISTJ est une personne fiable, rigoureuse et profondément responsable. Attaché aux traditions et aux règles établies, il accomplit ses engagements avec une constance exemplaire et représente un pilier solide pour son entourage.",
+    "strengths": "Fiabilité absolue et sens du devoir très développé. Excellente organisation et rigueur dans le travail. Mémoire des détails et respect scrupuleux des procédures. Stabilité et constance qui inspirent confiance.",
+    "growthAreas": "Résistance au changement et difficulté à s'adapter aux nouvelles méthodes. Peut être perçu comme rigide ou inflexible. Tendance à la critique envers ceux qui ne respectent pas les règles. Difficulté à exprimer ses émotions.",
+    "careers": "Comptabilité et finances (cabinets comptables à Douala). Administration publique et fonction publique camerounaise. Droit et notariat. Audit et contrôle de gestion dans les banques. Gestion administrative dans les grandes entreprises."
+  },
+  {
+    "type": "ISFJ",
+    "whoYouAre": "L'ISFJ est un gardien attentionné et dévoué, toujours présent pour soutenir ceux qu'il aime. Discret mais indispensable, il met son énergie au service des autres avec une générosité et une constance remarquables.",
+    "strengths": "Sens du service et dévouement exemplaires. Grande attention aux détails et aux besoins des autres. Fiabilité et loyauté inconditionnelles. Capacité à créer un environnement stable et harmonieux.",
+    "growthAreas": "Tendance à s'oublier et à ne pas exprimer ses propres besoins. Difficulté à dire non même quand c'est nécessaire. Peut accumuler les frustrations sans les exprimer. Résistance aux changements brusques.",
+    "careers": "Médecine et soins infirmiers (Hôpital Central de Yaoundé). Enseignement dans le primaire. Travail social et assistance aux familles. Administration dans les établissements scolaires. Secrétariat médical et gestion administrative."
+  },
+  {
+    "type": "ESTJ",
+    "whoYouAre": "L'ESTJ est un organisateur efficace et un gestionnaire né. Pragmatique et déterminé, il aime mettre de l'ordre, respecter les règles et mener les projets à terme avec une efficacité remarquable.",
+    "strengths": "Excellente capacité à organiser, planifier et superviser. Sens des responsabilités très développé. Leadership assertif et capacité à prendre des décisions rapidement. Fiabilité et engagement dans tout ce qu'il entreprend.",
+    "growthAreas": "Peut manquer de flexibilité face aux imprévus. Tendance à imposer ses méthodes sans consulter. Difficulté à tenir compte des aspects émotionnels dans ses décisions. Peut paraître autoritaire ou impatient.",
+    "careers": "Management et direction dans les entreprises publiques (SNEC, CAMAIR-Co). Administration judiciaire et forces de l'ordre. Gestion de projets dans le BTP et les infrastructures. Direction d'établissements scolaires. Commerce et gestion de PME."
+  },
+  {
+    "type": "ESFJ",
+    "whoYouAre": "L'ESFJ est une personne chaleureuse, sociale et profondément attachée à l'harmonie. Attentif aux besoins des autres et soucieux de bien faire, il crée naturellement des liens forts et contribue à la cohésion des groupes.",
+    "strengths": "Excellentes compétences relationnelles et sens de l'hospitalité. Sens de l'organisation et souci du détail. Loyauté et dévouement envers sa communauté. Capacité naturelle à créer une atmosphère chaleureuse et inclusive.",
+    "growthAreas": "Trop sensible aux jugements et à la désapprobation des autres. Tendance à éviter les conflits même nécessaires. Peut avoir du mal à prendre des décisions impopulaires. Parfois trop conformiste et peu original.",
+    "careers": "Soins de santé et médecine communautaire. Enseignement et éducation. Relations publiques et événementiel. Commerce et service client dans les grandes surfaces. Ressources humaines et gestion des talents."
+  },
+  {
+    "type": "ISTP",
+    "whoYouAre": "L'ISTP est un observateur calme et pragmatique, fasciné par le fonctionnement des choses. Indépendant et habile de ses mains, il résout les problèmes concrets avec une efficacité et une précision redoutables.",
+    "strengths": "Excellentes compétences techniques et manuelles. Capacité à rester calme et efficace dans les situations de crise. Grande indépendance et autonomie. Sens pratique et aptitude à trouver des solutions rapides.",
+    "growthAreas": "Difficulté à exprimer ses émotions et ses besoins. Tendance à l'isolement et au repli sur soi. Peut sembler froid ou indifférent aux autres. Résistance aux engagements à long terme.",
+    "careers": "Mécanique et ingénierie industrielle (usines de Douala). Informatique et maintenance des systèmes. Électricité et énergie (AES-SONEL, EDC). Bâtiment et travaux publics. Agriculture technique et gestion des exploitations."
+  },
+  {
+    "type": "ISFP",
+    "whoYouAre": "L'ISFP est un artiste sensible et authentique, profondément connecté à ses sens et à ses valeurs. Discret mais passionné, il exprime sa créativité dans ses actions quotidiennes et cherche la beauté et l'harmonie.",
+    "strengths": "Créativité artistique et sens esthétique développés. Grande sensibilité et empathie envers les autres. Authenticité et cohérence entre valeurs et actions. Flexibilité et capacité d'adaptation aux situations.",
+    "growthAreas": "Evite les conflits au point de ne pas défendre ses droits. Difficulté à planifier et à se projeter sur le long terme. Tendance à sous-estimer ses propres compétences. Peut être trop réservé pour saisir les opportunités.",
+    "careers": "Arts visuels, musique et artisanat camerounais. Photographie et design graphique. Tourisme et guide culturel. Soins infirmiers et accompagnement des patients. Mode et stylisme africain à Yaoundé et Douala."
+  },
+  {
+    "type": "ESTP",
+    "whoYouAre": "L'ESTP est un acteur dynamique et pragmatique, toujours au cœur de l'action. Énergique, sociable et débrouillard, il excelle dans les situations qui demandent réactivité et prise de décision rapide.",
+    "strengths": "Réactivité et capacité à agir sous pression. Excellent sens de la négociation et de la persuasion. Énergie et enthousiasme qui motivent les équipes. Pragmatisme et sens des réalités du terrain.",
+    "growthAreas": "Tendance à agir sans réfléchir aux conséquences à long terme. Peut s'ennuyer rapidement dans les tâches routinières. Difficulté à respecter les règles et procédures. Peut prendre des risques excessifs.",
+    "careers": "Commerce et vente dans les marchés de Douala et Yaoundé. Entrepreneuriat et négoce international. Sport professionnel et coaching sportif. Gestion d'événements et animation. Sécurité et forces de l'ordre."
+  },
+  {
+    "type": "ESFP",
+    "whoYouAre": "L'ESFP est une personnalité solaire, spontanée et généreuse. Amoureux de la vie et des autres, il apporte joie et enthousiasme partout où il passe. Son sens de la fête et son empathie naturelle en font un être profondément humain.",
+    "strengths": "Enthousiasme communicatif et capacité à mettre les autres à l'aise. Excellentes compétences interpersonnelles et sens de la convivialité. Adaptabilité et résilience face aux imprévus. Générosité et sens de la solidarité.",
+    "growthAreas": "Difficulté à se concentrer sur les tâches longues et répétitives. Tendance à éviter les responsabilités difficiles. Peut manquer de planification et vivre dans l'instant. Sensibilité excessive aux conflits et aux tensions.",
+    "careers": "Tourisme, hôtellerie et restauration. Animation et spectacle vivant. Commerce et relation client. Enseignement dans le préscolaire et primaire. Santé communautaire et agents de terrain dans les ONG."
+  }
+]

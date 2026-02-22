@@ -101,14 +101,28 @@ android {
             excludes += "/META-INF/{AL2.0,LGPL2.1}"
         }
     }
+
+    bundle {
+        language {
+            enableSplit = true
+        }
+        density {
+            enableSplit = true
+        }
+        abi {
+            enableSplit = true
+        }
+    }
+
+    defaultConfig {
+        resourceConfigurations += listOf("fr", "en")
+    }
 }
 
 dependencies {
     // Syntax utilizes Gradle TYPESAFE_PROJECT_ACCESSORS feature
     implementation(projects.featureOnboarding)
-    implementation(projects.featureAuth)
-    implementation(projects.featureBilling)
-    implementation(projects.featureProfile)
+    implementation(projects.featurePersonnality)
 }
 
 /**
