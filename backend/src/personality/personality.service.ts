@@ -2,39 +2,46 @@ import { Injectable } from '@nestjs/common';
 import { InjectRepository } from '@nestjs/typeorm';
 import { Repository } from 'typeorm';
 import { PersonalityResult } from './entities/personality-result.entity';
-import { MBTI_QUESTIONS } from './questions.data';
-import { calculateMbtiType, Answers } from './mbti.calculator';
 import { PersonalityAiService } from './ai.service';
 
 @Injectable()
 export class PersonalityService {
-  constructor(
-    @InjectRepository(PersonalityResult)
-    private readonly resultsRepository: Repository<PersonalityResult>,
-    private readonly aiService: PersonalityAiService,
-  ) {}
+    constructor(
+        @InjectRepository(PersonalityResult)
+        private readonly resultsRepository: Repository<PersonalityResult>,
+        private readonly aiService: PersonalityAiService,
+    ) {}
 
-  getQuestions() {
-    return MBTI_QUESTIONS;
-  }
+    async generateDescription(params: {
+        mbtiType: string;
+        firstName: string;
+        age: number;
+        city: string;
+        situation: string;
+    }) {
+        const { mbtiType, firstName, age, city, situation } = params;
 
-  async submitAnswers(answers: Answers) {
-    const { type, scores } = calculateMbtiType(answers);
-    const description = await this.aiService.generateDescription(type, scores);
-    
-    const result = this.resultsRepository.create({
-      mbtiType: type,
-      description,
-      answers,
-    });
-    await this.resultsRepository.save(result);
+        // Génère la description via Gemini
+        const description = await this.aiService.generateDescription(
+            mbtiType,
+            firstName,
+            age,
+            city,
+            situation
+        );
 
-    return {
-      id: result.id,
-      mbtiType: type,
-      description,
-      scores,
-      createdAt: result.createdAt,
-    };
-  }
+        // Sauvegarde en base pour statistiques futures
+        const result = this.resultsRepository.create({
+            mbtiType,
+            description,
+            userInfo: { firstName, age, city, situation }
+        });
+        await this.resultsRepository.save(result);
+
+        return {
+            mbtiType,
+            description,
+            createdAt: result.createdAt
+        };
+    }
 }
